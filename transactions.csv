@@ -1,0 +1,5 @@
+amount,transaction_type,old_balance,new_balance,is_fraud
+1000,transfer,5000,4000,0
+25000,transfer,30000,5000,1
+500,shopping,2000,1500,0
+90000,transfer,100000,10000,1
